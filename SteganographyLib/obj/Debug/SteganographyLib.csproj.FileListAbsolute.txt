@@ -1,0 +1,10 @@
+D:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\bin\Debug\SteganographyLib.dll
+D:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\bin\Debug\SteganographyLib.pdb
+D:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\obj\Debug\SteganographyLib.csproj.CoreCompileInputs.cache
+D:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\obj\Debug\SteganographyLib.dll
+D:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\obj\Debug\SteganographyLib.pdb
+I:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\bin\Debug\SteganographyLib.dll
+I:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\bin\Debug\SteganographyLib.pdb
+I:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\obj\Debug\SteganographyLib.csproj.CoreCompileInputs.cache
+I:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\obj\Debug\SteganographyLib.dll
+I:\School\C# Projects\Project 3 - Steganography App\SteganographyLib\SteganographyLib\obj\Debug\SteganographyLib.pdb
